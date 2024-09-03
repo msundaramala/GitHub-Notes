@@ -20,3 +20,7 @@ What is git hub?
 GitHub is the webbased hosting sewrvice for software code.
 provides version control using git.
 It is a collabrative tool which helps multiple users to work on a single project without much difficulties.
+upload and changes commit and track:
+1.create repositoy
+2.upload file
+3.verify in repository
