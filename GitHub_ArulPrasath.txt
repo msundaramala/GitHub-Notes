@@ -24,3 +24,17 @@ upload and changes commit and track:
 1.create repositoy
 2.upload file
 3.verify in repository
+
+
+
+Branching:
+----------------------------------------------
+A branch is a isolated development work without affecting the other branches in the repository.
+
+use branches :
+develop features
+fix bugs
+safty experiment with new ideas.
+Develop features
+fix bugs
+safety experiment with new ideas
